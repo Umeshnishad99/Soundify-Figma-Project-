@@ -38,7 +38,7 @@ This project demonstrates strong UI/UX design skills and can be used as a base f
 
 ```
 /assets
-   ├── home.png
+   ├── Cover.png
    ├── player.png
    ├── playlist.png
 ```
