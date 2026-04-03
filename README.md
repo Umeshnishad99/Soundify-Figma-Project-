@@ -45,7 +45,7 @@ This project demonstrates strong UI/UX design skills and can be used as a base f
 
 Example:
 
-![Home Screen](assets/home.png)
+![Home Screen](assets/Cover.png)
 ![Music Player](assets/player.png)
 ![Playlist](assets/playlist.png)
 
